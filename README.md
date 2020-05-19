@@ -28,7 +28,7 @@
 
   <p><strong>Need help?</strong></p>
   <p>Don’t hesitate to email us at <a href="mailto:support@bean.ai">support@bean.ai</a>.
-    Click on our <a href="https://www.youtube.com/channel/UCfG4OK0pyKJzkAwrPWp4Zaw/featured">YouTube</a> for helpful tutorials
+    Click on our <a href="https://www.youtube.com/channel/UCfG4OK0pyKJzkAwrPWp4Zaw/featured">YouTube</a> for helpful tutorials.
   </p>
   <br>
   <p>Thank you,</p>
