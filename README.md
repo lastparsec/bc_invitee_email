@@ -23,7 +23,7 @@
     <li>View all drivers in real-time</li>
   </ul>
 
-  <p><a href="https://www.beansroute.ai/3pl-console">Please use the following link to join the team.</a></p>
+  <p><a href="">Please use the following link to join the team.</a></p>
 
 
   <p><strong>Need help?</strong></p>
