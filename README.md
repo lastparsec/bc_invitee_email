@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <img src="https://www.beansroute.ai/assets/logo.png" width="75" height="75" border="0" alt="Beans Route icon">
+  <img src="" width="75" height="75" border="0" alt="Beans Route icon">
   <h3>Welcome to Beans Route!</h3>
   <br>
   <p>Congratulations! You were signed up as a manager on the Beans Route dispatch tool.
