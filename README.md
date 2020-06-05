@@ -13,7 +13,7 @@
   <br>
   <p>Congratulations! You were signed up as a manager on the Beans Route dispatch tool.
   </p>
-  <p>Use "EMAIL" and your email password to get access to dispatch. Don't use any other email.</p>
+  <p>Use "EMAIL_@EMAIL.COM" and your email password to get access to dispatch. Don't use any other email.</p>
    <p><a href="">Please use the following link to join the team.</a></p>
 
   <p><strong>You'll be able to:</strong></p>
