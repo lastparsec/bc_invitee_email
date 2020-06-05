@@ -14,6 +14,8 @@
   <p>Congratulations! You were signed up as a manager on the Beans Route dispatch tool.
   </p>
   <p>Please sign in with "EMAIL" and your email password to get access to dispatch. Don't use any other email.</p>
+  <br>
+   <p><a href="">Please use the following link to join the team.</a></p>
 
   <p><strong>You'll be able to:</strong></p>
   <ul>
@@ -23,9 +25,6 @@
     <li>See delivery progress for every route</li>
     <li>View all drivers in real-time</li>
   </ul>
-
-  <p><a href="">Please use the following link to join the team.</a></p>
-
 
   <p><strong>Need help?</strong></p>
   <p>Don’t hesitate to email us at <a href="mailto:support@bean.ai">support@bean.ai</a>.
